@@ -50,19 +50,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git) 
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira)
 
----
 
-### 📈 GitHub Stats
-
-
-![itHub Stats
-
-!GitHub Streak
-
-!Top Languages
-
-
----
 
 ### 📌 Featured Projects
 
@@ -83,8 +71,8 @@
 
 ### 📫 Connect with Me
 - 📧 Email: rakibur992@gmail.com
-- 🌐 GitHub: [github.com/rakib](https://github.com/rakibur992)
-- 💼 LinkedIn: [linkedin.com/in/rakib](https://linkedin.com/in/rakib-iub)
+- 🌐 GitHub: [github.com/rakibur992](https://github.com/rakibur992)
+- 💼 LinkedIn: [linkedin.com/in/rakib-iub](https://linkedin.com/in/rakib-iub)
 
 ---
 
