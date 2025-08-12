@@ -55,9 +55,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakibur992&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibur992&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibur992&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
@@ -81,8 +81,8 @@
 
 ### 📫 Connect with Me
 - 📧 Email: rakibur992@gmail.com
-- 🌐 GitHub: [github.com/rakib](https://github.com/rakib)
-- 💼 LinkedIn: [linkedin.com/in/rakib](https://linkedin.com/in/rakib)
+- 🌐 GitHub: [github.com/rakib](https://github.com/rakibur992)
+- 💼 LinkedIn: [linkedin.com/in/rakib](https://linkedin.com/in/rakib-iub)
 
 ---
 
