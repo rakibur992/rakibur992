@@ -14,7 +14,7 @@
 - 🧠 Passionate about scalable systems, cloud-native apps, and automation
 - 💡 Skilled in Java, Python, Node.js, Spring Boot, Django, FastAPI
 - ☁️ DevOps tools: Docker, Kubernetes, AWS, CI/CD
-- 📊 Database: PostgreSQL, MongoDB, Redis
+- 📊 Database: My SQL, MS SQL, PostgreSQL, MongoDB, Elastic Search,Redis
 - 🧪 Currently contributing to QAClan – AI-powered no-code test automation platform
 
 ---
