@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://github.com/rakib"><img src="https://img.shields.io/github/followers/rakib?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="mailto:rakibur992@gmail.com"><img src="https://img.shields.io/badge/Email-rakibur992@gmail.com-blue?style=flat-square&logo=gmail"></a>
-  <a href="https://linkedin.com/in/rakib"><img src="https://img.shields.io/badge/LinkedIn-rakib-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/rakib-iub"><img src="https://img.shields.io/badge/LinkedIn-rakib-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
 ---
@@ -54,11 +54,13 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakibur992&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakibur992&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibur992&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+
+![itHub Stats
+
+!GitHub Streak
+
+!Top Languages
+
 
 ---
 
