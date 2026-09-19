@@ -65,11 +65,11 @@
 - Drag-and-drop Kanban board with JWT-based auth and task ownership
 - Containerized with Docker Compose for one-command local deployment
 
-#### 🔹 [IUB Public Website](#)
+#### 🔹 [IUB Public Website](https://iub.ac.bd)
 - Full-stack platform built on Payload CMS with a Next.js frontend and reusable components
 - CI/CD with GitHub Actions & Docker
 
-#### 🔹 [QAClan – AI-powered No-code Test Automation](#)
+#### 🔹 [QAClan – AI-powered No-code Test Automation](https://qaclan.com)
 - RESTful APIs with FastAPI & Flask
 - Scalable backend with PostgreSQL & Docker
 - Contributed from MVP through to production-ready platform
