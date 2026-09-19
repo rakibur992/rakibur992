@@ -60,7 +60,7 @@
 
 ### 📌 Featured Projects
 
-#### 🔹 [TaskFlow — Full-Stack Task & Sprint Tracker](#)
+#### 🔹 [TaskFlow — Full-Stack Task & Sprint Tracker](https://github.com/rakibur992/task-flow)
 - Spring Boot (Java, Spring Security, JWT) REST API paired with a Next.js/TypeScript/Tailwind frontend
 - Drag-and-drop Kanban board with JWT-based auth and task ownership
 - Containerized with Docker Compose for one-command local deployment
